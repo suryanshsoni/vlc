@@ -1,0 +1,7 @@
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/mpc_types.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/reader.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/streaminfo.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/minimax.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/mpcdec.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/mpcmath.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/mpc/datatypes.h

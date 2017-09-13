@@ -1,0 +1,4 @@
+VERSION = $(shell grep LIVEMEDIA_LIBRARY_VERSION_STRING liveMedia/include/liveMedia_version.hh | sed 's/.*"\([^"]*\)".*/\1/')
+##### Change the following for your environment:
+LIBDIR = /home/ubuntu/vlc/contrib/x86_64-linux-gnu/lib
+PREFIX = /home/ubuntu/vlc/contrib/x86_64-linux-gnu

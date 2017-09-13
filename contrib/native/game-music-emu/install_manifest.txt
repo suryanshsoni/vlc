@@ -1,0 +1,3 @@
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/lib/libgme.a
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/include/gme/gme.h
+/home/ubuntu/vlc/contrib/x86_64-linux-gnu/lib/pkgconfig/libgme.pc

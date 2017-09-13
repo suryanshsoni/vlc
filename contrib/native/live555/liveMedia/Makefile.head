@@ -1,0 +1,6 @@
+INCLUDES = -Iinclude -I../UsageEnvironment/include -I../groupsock/include
+PREFIX = /usr/local
+LIBDIR = $(PREFIX)/lib
+##### Change the following for your environment:
+PREFIX = /home/ubuntu/vlc/contrib/x86_64-linux-gnu
+LIBDIR = /home/ubuntu/vlc/contrib/x86_64-linux-gnu/lib
